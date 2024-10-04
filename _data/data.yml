@@ -1,0 +1,14 @@
+meta:
+  direction: ltr # text direction, "ltr" (like English) or "rtl" (like Arabic), default is "ltr"
+  language: en # text language, the value is HTML lang attribute value, default is "en"
+
+basic:
+  name: Konstantinos Tarnaris # name
+  title: DevOps Engineer # job title
+
+contact:
+  location: Athens, Greece # location, text or markdown link syntax
+  email: konstantinos@tarnaris.com # email address
+  # phone: +86-111-2222-3333 # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+
+  nationality: Greece # nationality
