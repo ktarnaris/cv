@@ -1,0 +1,155 @@
+meta:
+  direction: ltr
+  language: en
+
+basic:
+  name: Konstantinos Tarnaris
+  title: DevOps Engineer
+  avatar:
+    show: false
+    path: /assets/images/profile.png
+
+contact:
+  location: Athens, Greece
+  email: konstantinos@tarnaris.com
+  website: cv.tarnaris.com
+  linkedin: ktarnaris
+
+profile:
+  show: true
+  order: 1
+  title: Summary
+  description: |
+    Experienced DevOps Engineer with expertise in infrastructure automation, system administration, cloud technologies, and security across various sectors.
+    Skilled in designing, deploying, and maintaining scalable and reliable infrastructure using Terraform, Ansible, and Kubernetes. Proven ability to optimize CI/CD pipelines,
+    implement GitOps practices, and enhance network security across self-hosted and cloud environments
+
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  items:
+    - company: Finartix S.A
+      link: "https://linkedin.com/company/finartix/"
+      date: May 2024 - Present
+      role: Cloud DevOps Engineer
+      location: Athens
+      description: |
+        - Architected and deployed infrastructure from the ground up for two new products:
+          - Banking Disputes Chargeback Application
+          - Timesheet and Management Application
+        - Implemented GitOps principles by provisioning and managing Azure infrastructure with Terraform
+        - Deployed and configured an Azure Kubernetes Service cluster, integrating it with Azure Container Registry, Azure Key Vault, and Azure Application Gateway for secure and efficient application management
+        - Developed, optimized, and maintained CI/CD pipelines on Azure, streamlining continuous integration and deployment
+        - Enhanced security by implementing Azure Web Application Firewall and Network Security Groups to protect critical infrastructure
+
+    - company: Vaix Ltd
+      link: "https://linkedin.com/company/vaix-limited"
+      date: Feb 2022 - Apr 2024
+      role: DevOps Engineer
+      location: Athens
+      description: |
+        - Maintained the stability and high availability of a self-managed PostgreSQL cluster (primary-standby architecture)
+        - Configured and troubleshot a self-managed Kubernetes environment with five clusters, using Ansible for automated cluster configuration
+        - Maintained and improved Helm charts for application deployments, ensuring seamless integration with ArgoCD for continuous delivery
+        - Configured and maintained monitoring and observability tools, including Prometheus, Grafana, and Zabbix, primarily for troubleshooting and performance analysis
+        - Collaborated closely with the development team to maintain and enhance CI/CD pipelines within a self-hosted GitLab environment
+        - Provisioned and managed infrastructure using GitOps principles with Terraform
+        - Configured and maintained self-managed Linux server environments, using Ansible for automation and consistency
+        - Participated in the on-call rotation team, ensuring rapid response and issue resolution
+        - Researched and evaluated new open-source technologies to optimize and improve overall infrastructure efficiency
+
+    - company: Netbull IT Services Ltd
+      link: "https://www.linkedin.com/company/netbull-security-services/"
+      date: Oct 2019 - Feb 2022
+      role: Network and System Administrator
+      location: Athens
+      description: |
+        - Provided in-house support for the Hellenic Broadcasting Corporation, ensuring system stability and efficiency
+        - Monitored servers and network equipment to maintain consistent performance and reliability
+        - Designed and configured routing within a hub-and-spoke network topology, ensuring optimal traffic flow and network efficiency.
+        - Played a key role in a full-scale Layer 1, 2, and 3 infrastructure upgrade, including switches, routers and access points, as well as the installation and configuration of new hardware in an on-site data center
+        - Ensured security compliance by continuously applying patches to servers and network equipment
+        - Implemented firewall rules on Check Point firewall appliances, enforcing least privilege access to enhance security
+
+    - company: Hellenic Broadcasting Corporation (ERT A.E)
+      link: "https://www.linkedin.com/company/ert-s.a.-hellenic-broadcasting-corporation/posts/"
+      tags: Internship
+      date: Oct 2017 - Mar 2018
+      role: IT Support
+      location: Athens
+      description: |
+        - Diagnosed and repaired issues related to both computer hardware and software
+        - Worked extensively on Layer 1 networking tasks, including cable management and physical installation of servers in the in-house data center environment
+        - Diagnosed and repaired issues in a legacy telephone center, ensuring continued functionality and reliability of circuit-based systems
+
+education:
+  show: true
+  order: 3
+  title: Education
+  items:
+    - institution: University of West Attica, Athens
+      link: "https://www.uniwa.gr/en/"
+      date: 2021 - 2022
+      degree: Master in Wireless Sensor Networks
+      description: |
+
+        **Thesis:** Development of optimization schemes for Wireless Sensor Networks
+
+        Grade of Thesis: Excellent (10/10)
+
+        *The purpose of this master is the study of existing methodologies and the development of new methodologies of this kind,
+        that aim to maximize coverage and multiple coverage in wireless sensor networks, optimizing the placement of the sensor
+        nodes existing within the network field. The solution to the specific problems was investigated using genetic algorithms (GA),
+        and the particle swarm optimization (PSO) algorithm.Through a series of scalable experiments, the performance of the control schemes
+        developed was evaluated. In particular, in the initial experiments the possibility of achieving the maximization of the coverage of the
+        space was verified and in the subsequent ones, the possibility of the control schemes to achieve additional and k-coverage was investigated.
+        Finally, the performance of the control schemes developed was compared with that of two popular algorithms of this kind.*
+
+    - institution: University of West Attica, Athens
+      link: "https://www.uniwa.gr/en/"
+      date: 2010 - 2019
+      degree: Bachelor in Electrical and Electronics Engineering
+
+certificate:
+  show: true
+  order: 4
+  title: Certificates
+  items:
+    - name: AWS Certified Cloud Practitioner
+      issuer: Amazon Web Services
+      date: 2024
+      link: "https://www.credly.com/badges/89c21242-7acc-45f2-9358-2454edc9f820"
+
+    - name: AWS Certified Solutions Architect – Associate
+      issuer: Amazon Web Services
+      date: 2024
+      link: "https://www.credly.com/badges/1b1674c5-e469-46de-9706-05d5ad4ce8b0"
+
+    - name: Microsoft Certified - Azure Fundamentals
+      issuer: Microsoft Azure
+      date: 2025
+      link: "https://www.learn.microsoft.com/en-us/users/konstantinostarnaris-1940/credentials/8ea2c9aab0ffdaf2"
+
+publication:
+  show: true
+  order: 5
+  title: Publications
+  items:
+    - title: Coverage and k-Coverage Optimization in Wireless Sensor Networks Using Computational Intelligence Methods A Comparative Study
+      authors: Konstantinos Tarnaris, Ioanna Preka, Dionisis Kandris, Alex Alexandridis
+      link: "https://www.mdpi.com/2079-9292/9/4/675"
+
+language:
+  show: true
+  order: 6
+  title: Languages
+  items:
+    - idiom: Greek
+      level: Native
+    - idiom: English
+      level: Intermediate
+    - idiom: German
+      level: Beginner
+
+close: <strong>Sorry, my resume has been hidden.</strong>
