@@ -16,7 +16,7 @@ contact:
   linkedin: ktarnaris
 
 profile:
-  show: true
+  show: false
   order: 1
   title: Summary
   description: |
