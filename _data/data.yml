@@ -33,7 +33,7 @@ experience:
       link: "https://linkedin.com/company/finartix/"
       date: May 2024 - Present
       role: Cloud DevOps Engineer
-      location: Athens
+      location: Athens, Greece
       description: |
         - Engaged in the company’s core projects:
           - Banking Disputes and Chargeback Application
@@ -48,7 +48,7 @@ experience:
       link: "https://linkedin.com/company/vaix-limited"
       date: Feb 2022 - Apr 2024
       role: DevOps Engineer
-      location: Athens
+      location: Athens, Greece
       description: |
         - Configured and maintained self-managed linux server environments, using ansible for automation
         - Provisioned and managed infrastructure using GitOps principles with Terraform
@@ -63,7 +63,7 @@ experience:
       link: "https://www.linkedin.com/company/netbull-security-services/"
       date: Oct 2019 - Feb 2022
       role: Network and System Administrator
-      location: Athens
+      location: Athens, Greece
       description: |
         - Provided in-house support for the Hellenic Broadcasting Corporation
         - Designed and configured routing within a hub-and-spoke network topology
@@ -76,7 +76,7 @@ experience:
       tags: Internship
       date: Oct 2017 - Mar 2018
       role: IT Support
-      location: Athens
+      location: Athens, Greece
       description: |
         - Diagnosed and repaired issues related to both computer hardware and software
         - Worked extensively on Layer 1 networking tasks, including cable management and physical installation of servers in the in-house data center environment
@@ -87,7 +87,7 @@ education:
   order: 3
   title: Education
   items:
-    - institution: University of West Attica, Athens
+    - institution: University of West Attica
       link: "https://www.uniwa.gr/en/"
       date: 2021 - 2022
       degree: Master in Wireless Sensor Networks
@@ -105,7 +105,7 @@ education:
         space was verified and in the subsequent ones, the possibility of the control schemes to achieve additional and k-coverage was investigated.
         Finally, the performance of the control schemes developed was compared with that of two popular algorithms of this kind.*
 
-    - institution: University of West Attica, Athens
+    - institution: University of West Attica
       link: "https://www.uniwa.gr/en/"
       date: 2010 - 2019
       degree: Bachelor in Electrical and Electronics Engineering
