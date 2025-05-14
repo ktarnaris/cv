@@ -16,7 +16,7 @@ contact:
   linkedin: ktarnaris
 
 profile:
-  show: false
+  show: true
   order: 1
   title: Summary
   description: |
@@ -93,17 +93,11 @@ education:
       degree: Master in Wireless Sensor Networks
       description: |
 
-        **Thesis:** Development of optimization schemes for Wireless Sensor Networks
-
-        Grade of Thesis: Excellent (10/10)
-
-        *The purpose of this master is the study of existing methodologies and the development of new methodologies of this kind,
-        that aim to maximize coverage and multiple coverage in wireless sensor networks, optimizing the placement of the sensor
-        nodes existing within the network field. The solution to the specific problems was investigated using genetic algorithms (GA),
-        and the particle swarm optimization (PSO) algorithm.Through a series of scalable experiments, the performance of the control schemes
-        developed was evaluated. In particular, in the initial experiments the possibility of achieving the maximization of the coverage of the
-        space was verified and in the subsequent ones, the possibility of the control schemes to achieve additional and k-coverage was investigated.
-        Finally, the performance of the control schemes developed was compared with that of two popular algorithms of this kind.*
+        - **Thesis:** Development of Optimization Schemes for Wireless Sensor Networks
+          - Thesis Grade: Excellent (10/10)
+          - Explored and developed methodologies to maximize area coverage and k-coverage in wireless sensor networks
+          - Utilized Genetic Algorithms (GA) and Particle Swarm Optimization (PSO) to optimize sensor node placement
+          - Publication: Research from this thesis led to a peer-reviewed paper titled *Coverage and k-Coverage Optimization in Wireless Sensor Networks Using Computational Intelligence Methods: A Comparative Study*
 
     - institution: University of West Attica
       link: "https://www.uniwa.gr/en/"
