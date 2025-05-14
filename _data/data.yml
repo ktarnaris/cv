@@ -20,9 +20,11 @@ profile:
   order: 1
   title: Summary
   description: |
-    Experienced DevOps Engineer with expertise in infrastructure automation, system administration, cloud technologies and security.
-    Skilled in designing, deploying, and maintaining scalable and reliable infrastructure using Terraform, Ansible, and Kubernetes. Proven ability to optimize CI/CD pipelines,
-    implement GitOps practices, and enhance network security across self-hosted and cloud environments.
+
+    Cloud DevOps Engineer with expertise in Azure, AKS, Terraform, and GitOps practices.
+    Experienced in building secure, scalable infrastructure and automating CI/CD pipelines.
+    Skilled in managing Kubernetes environments, PostgreSQL clusters, and monitoring systems.
+    AWS and Azure certified, with a strong focus on reliability, automation, and cloud security.
 
 experience:
   show: true
