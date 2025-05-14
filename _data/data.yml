@@ -16,7 +16,7 @@ contact:
   linkedin: ktarnaris
 
 profile:
-  show: true
+  show: false
   order: 1
   title: Summary
   description: |
@@ -35,14 +35,13 @@ experience:
       role: Cloud DevOps Engineer
       location: Athens, Greece
       description: |
-        - Engaged in the company’s core projects:
-          - Banking Disputes and Chargeback Application
+        - Architect and deploy cloud infrastructure supporting core company applications:
+          - Banking Disputes and Chargeback Platform
           - Timesheet and Invoicing Application
-        - Responsible for the architecture and deployment of infrastructure
         - Implement GitOps principles by provisioning and managing Azure infrastructure with Terraform
-        - Deploy and configure Azure Kubernetes Service (AKS) cluster, integrating it with Azure Container Registry, Azure Key Vault and Azure Application Gateway
-        - Develop, optimize and maintain CI/CD pipelines on Azure DevOps to ensure continuous integration and deployment
-        - Enhance security by implementing Azure Web Application Firewall (WAF) and Network Security Groups (NSGs)
+        - Deploy and manage AKS clusters, integrated with Azure Container Registry, Azure Key Vault and Azure Application Gateway
+        - Develop and optimize CI/CD pipelines in Azure DevOps, ensuring fast and reliable deployments
+        - Enhance cloud security using Azure WAF and Network Security Groups (NSGs)
 
     - company: Vaix Ltd
       link: "https://linkedin.com/company/vaix-limited"
@@ -65,11 +64,10 @@ experience:
       role: Network and System Administrator
       location: Athens, Greece
       description: |
-        - Provided in-house support for the Hellenic Broadcasting Corporation
-        - Designed and configured routing within a hub-and-spoke network topology
+        - Supported enterprise infrastructure for the Hellenic Broadcasting Corporation (ERT)
+        - Designed and maintained hub-and-spoke network architecture
         - Played a critical role in a full-scale Layer 1-3 infrastructure upgrade
-        - Monitored servers and network equipment
-        - Ensured security compliance by continuously applying patches to servers and network equipment
+        - Managed patching and compliance for servers and network devices
 
     - company: Hellenic Broadcasting Corporation (ERT A.E)
       link: "https://www.linkedin.com/company/ert-s.a.-hellenic-broadcasting-corporation/posts/"
