@@ -16,15 +16,15 @@ contact:
   linkedin: ktarnaris
 
 profile:
-  show: false
+  show: true
   order: 1
   title: Summary
   description: |
 
-    Cloud DevOps Engineer with expertise in Azure, AKS, Terraform, and GitOps practices.
+    Cloud DevOps Engineer with expertise in Azure Cloud, Terraform, and GitOps practices.
     Experienced in building secure, scalable infrastructure and automating CI/CD pipelines.
     Skilled in managing Kubernetes environments, PostgreSQL clusters, and monitoring systems.
-    AWS and Azure certified, with a strong focus on reliability, automation, and cloud security.
+    Azure and AWS certified, with a strong focus on reliability, automation, and cloud security.
 
 experience:
   show: true
@@ -37,13 +37,13 @@ experience:
       role: Cloud DevOps Engineer
       location: Athens, Greece
       description: |
-        - Architect and deploy cloud infrastructure supporting core company applications:
+
+        - Design and deploy cloud infrastructure supporting core company applications:
           - Banking Disputes and Chargeback Platform
           - Timesheet and Invoicing Application
         - Implement GitOps principles by provisioning and managing Azure infrastructure with Terraform
-        - Deploy and manage AKS clusters, integrated with Azure Container Registry, Azure Key Vault and Azure Application Gateway
-        - Develop and optimize CI/CD pipelines in Azure DevOps, ensuring fast and reliable deployments
-        - Enhance cloud security using Azure WAF and Network Security Groups (NSGs)
+        - Deploy and manage Azure Kubernetes Cluster, integrated with Azure Container Registry, Azure Key Vault and Azure Application Gateway
+        - Develop and optimize CI/CD in Azure DevOps pipelines, ensuring fast and reliable deployments
 
     - company: Vaix Ltd
       link: "https://linkedin.com/company/vaix-limited"
@@ -51,12 +51,13 @@ experience:
       role: DevOps Engineer
       location: Athens, Greece
       description: |
+
+        - Maintained and enhanced Kubernetes deployments using Helm Charts, with full ArgoCD integration for automated delivery
+        - Configured and maintained Prometheus, Grafana and Zabbix monitoring tools
+        - Collaborated closely with the development team to maintain and enhance CI/CD pipelines within a self-hosted GitLab environment
         - Configured and maintained self-managed linux server environments, using ansible for automation
         - Provisioned and managed infrastructure using GitOps principles with Terraform
         - Maintained the stability and high availability of a self-managed PostgreSQL cluster (primary-standby architecture)
-        - Maintained and improved helm charts for Kubernetes application deployments, ensuring seamless integration with ArgoCD
-        - Configured and maintained Prometheus, Grafana and Zabbix monitoring tools
-        - Collaborated closely with the development team to maintain and enhance CI/CD pipelines within a self-hosted GitLab environment
         - Worked as standby support for production issues
         - Researched and evaluated new open-source technologies to optimize and improve overall infrastructure efficiency
 
@@ -66,10 +67,10 @@ experience:
       role: Network and System Administrator
       location: Athens, Greece
       description: |
+
         - Supported enterprise infrastructure for the Hellenic Broadcasting Corporation (ERT)
         - Designed and maintained hub-and-spoke network architecture
         - Played a critical role in a full-scale Layer 1-3 infrastructure upgrade
-        - Managed patching and compliance for servers and network devices
 
     - company: Hellenic Broadcasting Corporation (ERT A.E)
       link: "https://www.linkedin.com/company/ert-s.a.-hellenic-broadcasting-corporation/posts/"
@@ -78,6 +79,7 @@ experience:
       role: IT Support
       location: Athens, Greece
       description: |
+
         - Diagnosed and repaired issues related to both computer hardware and software
         - Worked extensively on Layer 1 networking tasks, including cable management and physical installation of servers in the in-house data center environment
         - Diagnosed and repaired issues in a legacy telephone center, ensuring continued functionality and reliability of circuit-based systems
@@ -97,7 +99,7 @@ education:
           - Thesis Grade: Excellent (10/10)
           - Explored and developed methodologies to maximize area coverage and k-coverage in wireless sensor networks
           - Utilized Genetic Algorithms (GA) and Particle Swarm Optimization (PSO) to optimize sensor node placement
-          - Publication: Research from this thesis led to a peer-reviewed paper titled *Coverage and k-Coverage Optimization in Wireless Sensor Networks Using Computational Intelligence Methods: A Comparative Study*
+        - **Publication**: Research from this thesis led to a peer-reviewed paper titled: *[Coverage and k-Coverage Optimization in Wireless Sensor Networks Using Computational Intelligence Methods: A Comparative Study](https://www.mdpi.com/2079-9292/9/4/675)*
 
     - institution: University of West Attica
       link: "https://www.uniwa.gr/en/"
