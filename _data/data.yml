@@ -41,9 +41,9 @@ experience:
         - Design and deploy cloud infrastructure supporting core company applications:
           - Banking Disputes and Chargeback Platform
           - Timesheet and Invoicing Application
-        - Implement GitOps principles by provisioning and managing Azure infrastructure with Terraform
+        - Implement GitOps principles by provisioning and managing Azure infrastructure using Terraform
         - Deploy and manage Azure Kubernetes Cluster, integrated with Azure Container Registry, Azure Key Vault and Azure Application Gateway
-        - Develop and optimize CI/CD in Azure DevOps pipelines, ensuring fast and reliable deployments
+        - Build and maintain CI/CD workflows with Azure DevOps Pipelines and ArgoCD
 
     - company: Vaix Ltd
       link: "https://linkedin.com/company/vaix-limited"
