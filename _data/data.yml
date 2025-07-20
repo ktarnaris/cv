@@ -55,7 +55,7 @@ experience:
         - Maintained and enhanced Kubernetes deployments using Helm Charts, with full ArgoCD integration for automated delivery
         - Configured and maintained Prometheus, Grafana and Zabbix monitoring tools
         - Collaborated closely with the development team to maintain and enhance CI/CD pipelines within a self-hosted GitLab environment
-        - Configured and maintained self-managed linux server environments, using ansible for automation
+        - Configured and maintained self-managed linux server environments, using Ansible for automation
         - Provisioned and managed infrastructure using GitOps principles with Terraform
         - Automated operational tasks and infrastructure workflows using Bash and Python scripting
         - Maintained the stability and high availability of a self-managed PostgreSQL cluster (primary-standby architecture)
