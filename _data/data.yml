@@ -15,17 +15,41 @@ contact:
   website: cv.tarnaris.com
   linkedin: ktarnaris
 
-profile:
+skill:
   show: true
   order: 1
-  title: Summary
+  title: Skills
   description: |
 
-    Cloud DevOps Engineer with expertise in Azure Cloud, Terraform, and GitOps practices.
-    Experienced in building secure, scalable infrastructure and automating CI/CD pipelines.
-    Skilled in managing Kubernetes environments, PostgreSQL clusters, and monitoring systems.
-    Azure and AWS certified, with a strong focus on reliability, automation, and cloud security.
+  groups:
+    - name: Cloud & Container Platforms
+      item:
+        - Azure Kubernetes Service (AKS) / On-premises Kubernetes
+        - Azure Container Registry
+        - Azure Key Vault
+        - Azure Application Gateway
 
+    - name: GitOps & Infrastructure as Code
+      item:
+        - Terraform
+        - Ansible
+        - Helm
+        - Argo CD
+        - GitLab CI
+        - Azure DevOps
+
+    - name: Monitoring & Observability
+      item:
+        - Prometheus
+        - Grafana
+        - Zabbix
+        - ELK (Elasticsearch, Logstash, Kibana)
+
+    - name: Networking
+      item:
+        - Routing - Switching
+        - Firewalling
+        - Network Segmentation (VLANs / Subnets)
 experience:
   show: true
   order: 2
@@ -38,12 +62,11 @@ experience:
       location: Athens, Greece
       description: |
 
-        - Design and deploy cloud infrastructure supporting core company applications:
-          - Banking Disputes and Chargeback Platform
-          - Timesheet and Invoicing Application
-        - Implement GitOps principles by provisioning and managing Azure infrastructure using Terraform
-        - Deploy and manage Azure Kubernetes Cluster, integrated with Azure Container Registry, Azure Key Vault and Azure Application Gateway
-        - Build and maintain CI/CD workflows with Azure DevOps Pipelines and ArgoCD
+        - Lead the design and deployment of cloud infrastructure on Microsoft Azure, supporting core company applications such as the Banking Disputes & Chargeback Platform and the Timesheet & Invoicing Application
+        - Implement GitOps principles by provisioning and managing Azure infrastructure (Landing Zones, AKS, ACR, Key Vault, Application Gateway) using Terraform
+        - Build and maintain CI/CD workflows with Azure DevOps Pipelines and Argo CD
+        - Participate in an ongoing European Publication Office project, supporting the migration of on-premise infrastructure to the cloud
+        - Contribute to the preparation of proposal documents in response to RFPs
 
     - company: Vaix Ltd
       link: "https://linkedin.com/company/vaix-limited"
@@ -52,7 +75,7 @@ experience:
       location: Athens, Greece
       description: |
 
-        - Maintained and enhanced Kubernetes deployments using Helm Charts, with full ArgoCD integration for automated delivery
+        - Maintained and enhanced Kubernetes deployments using Helm Charts, with full Argo CD integration for automated delivery
         - Configured and maintained Prometheus, Grafana and Zabbix monitoring tools
         - Collaborated closely with the development team to maintain and enhance CI/CD pipelines within a self-hosted GitLab environment
         - Configured and maintained self-managed linux server environments, using Ansible for automation
