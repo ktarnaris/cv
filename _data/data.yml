@@ -63,7 +63,7 @@ experience:
       description: |
 
         - Lead the design and deployment of cloud infrastructure on Microsoft Azure, supporting core company applications such as the Banking Disputes & Chargeback Platform and the Timesheet & Invoicing Application
-        - Implement GitOps principles by provisioning and managing Azure infrastructure (Landing Zones, AKS, ACR, Key Vault, Application Gateway) using Terraform
+        - Implement GitOps principles by provisioning and managing Azure infrastructure (Landing Zones, AKS, ACR, AKV, Application Gateway) using Terraform
         - Build and maintain CI/CD workflows with Azure DevOps Pipelines and Argo CD
         - Participate in an ongoing European Publication Office project, supporting the migration of on-premise infrastructure to the cloud
         - Contribute to the preparation of proposal documents in response to RFPs
