@@ -92,9 +92,11 @@ experience:
       location: Athens, Greece
       description: |
 
-        - Supported enterprise infrastructure for the Hellenic Broadcasting Corporation (ERT)
-        - Designed and maintained hub-and-spoke network architecture
-        - Played a critical role in a full-scale Layer 1-3 infrastructure upgrade
+        - Provided full network and system administration support for the Hellenic Broadcasting Corporation (ERT), managing the core IT infrastructure across multiple sites
+        - Managed Layer 3 routing, VLAN segmentation, and access control lists (ACLs) to ensure secure and efficient internal communication
+        - Led the migration of legacy infrastructure to a new environment, deploying and configuring servers, switches, routers, firewalls, and wireless access points
+        - Administered firewall policies, VPN servers, and remote-access gateways, maintaining strong perimeter and site-to-site security
+        - Led a project to interconnect ERT’s headquarters infrastructure with distributed broadcast stations through site-to-site VPNs, ensuring reliable and secure data flow between regional sites
 
     - company: Hellenic Broadcasting Corporation (ERT A.E)
       link: "https://www.linkedin.com/company/ert-s.a.-hellenic-broadcasting-corporation/posts/"
