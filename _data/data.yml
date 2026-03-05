@@ -22,12 +22,18 @@ skill:
   description: |
 
   groups:
-    - name: Cloud & Container Platforms
+    - name: Container Runtime & Orchestration
       item:
-        - Azure Kubernetes Service (AKS) / On-premises Kubernetes
-        - Azure Container Registry
-        - Azure Key Vault
-        - Azure Application Gateway
+        - Kubernetes
+        - Podman
+        - Podman Compose
+
+    - name: Azure Cloud Managed Services
+      item:
+        - Kubernetes Service
+        - Container Registry
+        - Key Vault
+        - Application Gateway
 
     - name: GitOps & Infrastructure as Code
       item:
@@ -47,9 +53,10 @@ skill:
 
     - name: Networking
       item:
+        - Network Segmentation (VLANs / Subnets)
         - Routing - Switching
         - Firewalling
-        - Network Segmentation (VLANs / Subnets)
+
 experience:
   show: true
   order: 2
